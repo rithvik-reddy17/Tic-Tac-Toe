@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rithvik-reddy17/Tic-Tac-Toe/static/css/main.7f330e10.chunk.css",
+    "main.js": "/rithvik-reddy17/Tic-Tac-Toe/static/js/main.9b3f67de.chunk.js",
+    "main.js.map": "/rithvik-reddy17/Tic-Tac-Toe/static/js/main.9b3f67de.chunk.js.map",
+    "runtime-main.js": "/rithvik-reddy17/Tic-Tac-Toe/static/js/runtime-main.442b110f.js",
+    "runtime-main.js.map": "/rithvik-reddy17/Tic-Tac-Toe/static/js/runtime-main.442b110f.js.map",
+    "static/css/2.26cf2148.chunk.css": "/rithvik-reddy17/Tic-Tac-Toe/static/css/2.26cf2148.chunk.css",
+    "static/js/2.74173508.chunk.js": "/rithvik-reddy17/Tic-Tac-Toe/static/js/2.74173508.chunk.js",
+    "static/js/2.74173508.chunk.js.map": "/rithvik-reddy17/Tic-Tac-Toe/static/js/2.74173508.chunk.js.map",
+    "static/js/3.4bd19a8a.chunk.js": "/rithvik-reddy17/Tic-Tac-Toe/static/js/3.4bd19a8a.chunk.js",
+    "static/js/3.4bd19a8a.chunk.js.map": "/rithvik-reddy17/Tic-Tac-Toe/static/js/3.4bd19a8a.chunk.js.map",
+    "index.html": "/rithvik-reddy17/Tic-Tac-Toe/index.html",
+    "static/css/2.26cf2148.chunk.css.map": "/rithvik-reddy17/Tic-Tac-Toe/static/css/2.26cf2148.chunk.css.map",
+    "static/css/main.7f330e10.chunk.css.map": "/rithvik-reddy17/Tic-Tac-Toe/static/css/main.7f330e10.chunk.css.map",
+    "static/js/2.74173508.chunk.js.LICENSE.txt": "/rithvik-reddy17/Tic-Tac-Toe/static/js/2.74173508.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.442b110f.js",
+    "static/css/2.26cf2148.chunk.css",
+    "static/js/2.74173508.chunk.js",
+    "static/css/main.7f330e10.chunk.css",
+    "static/js/main.9b3f67de.chunk.js"
+  ]
+}
